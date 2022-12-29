@@ -8,7 +8,10 @@ class ShopApplicationTests {
 
 	@Test
 	void contextLoads() {
-		int b=10;
+
+		int b=10;	
+		int a=10;
+
 	}
 
 }
